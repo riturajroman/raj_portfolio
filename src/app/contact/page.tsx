@@ -70,7 +70,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div className="flex items-center justify-center w-full h-full md:h-[100vh]">
+    <div className="flex items-center justify-center w-full h-[100vh]">
       <form
         onSubmit={handleSubmit}
         className="max-w-lg mx-auto p-4 border rounded-lg shadow-md"
